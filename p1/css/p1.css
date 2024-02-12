@@ -1,5 +1,15 @@
 body{
 	font-family: "elmhurst", serif;
-font-weight: 800;
+font-weight: 1000;
 font-style: normal;
+}
+p{
+	font-family: "elmhurst";
+	font-style: normal;
+	font-weight: 400;
+}
+ul{
+	font-family: "elmhurst";
+	font-style: normal;
+	font-weight: 400;
 }

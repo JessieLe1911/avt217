@@ -26,12 +26,15 @@ a:hover {
 }
 a{
 	color:#3D0F0F;
+	font-size: 20px;
 }
 h1{
 	color: #730C0C;
+	font-size: 60px;
 }
 h2{
 	color: #730C0C;
+	font-size: 30px;
 }
 strong{
 	color: #250707;

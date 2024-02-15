@@ -14,3 +14,7 @@ ol{
 	font-style: normal;
 	font-weight: 400;
 }
+a:hover {
+  	color:#48435C;
+  	background-color: #CAFF8A;
+}

@@ -1,21 +1,28 @@
 body {
-	background-color:#A3E2E4;
+	background-color:#9CE2D7;
 	margin-top: 100px;
   	margin-bottom: 100px;
   	margin-right: 150px;
   	margin-left: 80px;
 	font-family: 'Playfair Display', serif;
+	font-size: 40px;
 }
 h1 {
-	color: yellow;
+	color: #386A9A;
+	font-size: 100px;
 }
 h2 {
-	color: yellow;
+	color: #386A9A;
 }
 h3 {
-	color: yellow;
-	font-family: sans-serif;
+	color: #386A9A;
 }
 ul {
 	font-style: italic;
+}
+a:hover{
+	background-color: #E1C560;
+}
+a{
+	color: #163654;
 }

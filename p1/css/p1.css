@@ -6,19 +6,24 @@ body{
 	margin-top: 100px;
   	margin-bottom: 100px;
   	margin-right: 150px;
-  	margin-left: 80px;
+  	margin-left: 100px;
 }
 p{
 	font-family: "elmhurst";
 	font-style: normal;
 	font-weight: 400;
+	font-size: 16px;
 }
 ol{
 	font-family: "elmhurst";
 	font-style: normal;
 	font-weight: 400;
+	font-size: 16px;
 }
 a:hover {
   	color:#48435C;
   	background-color: #CAFF8A;
+}
+a{
+	color
 }

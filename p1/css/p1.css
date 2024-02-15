@@ -2,28 +2,37 @@ body{
 	font-family: "elmhurst", serif;
 	font-weight: 1000;
 	font-style: normal;
-	background: #E2D5A9;
+	background: #E9E9E9;
 	margin-top: 100px;
   	margin-bottom: 100px;
   	margin-right: 150px;
   	margin-left: 100px;
+  	font-size: 16px;
 }
 p{
 	font-family: "elmhurst";
 	font-style: normal;
 	font-weight: 400;
-	font-size: 16px;
+	color: #294451;
 }
 ol{
 	font-family: "elmhurst";
 	font-style: normal;
 	font-weight: 400;
-	font-size: 16px;
 }
 a:hover {
-  	color:#48435C;
-  	background-color: #CAFF8A;
+  	color:#234E65;
+  	background-color: #EBADAD;
 }
 a{
-	color
+	color:#3D0F0F;
+}
+h1{
+	color: #730C0C;
+}
+h2{
+	color: #730C0C;
+}
+strong{
+	color: #1D282E;
 }

@@ -1,6 +1,9 @@
 body {
-	background-color: darkturquoise;
-	margin: 50px;
+	background-color:#A3E2E4;
+	margin-top: 100px;
+  	margin-bottom: 100px;
+  	margin-right: 150px;
+  	margin-left: 80px;
 	font-family: 'Playfair Display', serif;
 }
 h1 {

@@ -1,5 +1,5 @@
 body {
-	background-color:#9CE2D7;
+	background-color:#A1D2CE;
 	margin-top: 200px;
   	margin-bottom: 200px;
   	margin-right: 250px;
@@ -9,17 +9,17 @@ body {
 	max-width: 100%;
 }
 h1 {
-	color: #386A9A;
+	color: #134D62;
 	font-size: 100px;
 }
 h2 {
-	color: #386A9A;
+	color: #134D62;
 }
 h3 {
-	color: #386A9A;
+	color: #134D62;
 }
 ul {
-	font-style: italic;
+	
 }
 a:hover{
 	background-color: #E1C560;

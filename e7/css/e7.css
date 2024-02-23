@@ -4,10 +4,26 @@ body{
 	font-optical-sizing: auto;
   	font-weight: 500;
   	font-style: normal;
+  	margin-top: 200px;
+  	margin-bottom: 200px;
+  	margin-right: 800px;
+  	margin-left: 250px;
+  	max-width: 100%;
 }
 p, ul{
 	color: #8AA0BD;
+	font-size: 16px;
 }
 h1, h2{
 	color: #E0E1DD;
 }
+h1{
+	font-size: 55px;
+}
+.author{
+	color: #4D7DB3;
+	text-decoration: underline;
+	text-decoration-color: #8AA0BD;
+	text-transform: uppercase;
+}
+

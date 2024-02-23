@@ -28,8 +28,8 @@ h1{
 }
 viewport {
   	width: device-width;
-  	zoom: 1;
+  	zoom: 5;
     min-zoom: 0.5;
-    max-zoom: 3;
+    max-zoom: 5;
     user-zoom: fixed;
 }

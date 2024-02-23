@@ -3,6 +3,7 @@ body{
 	font-family: "Red Hat Display", sans-serif;
 	font-optical-sizing: auto;
   	font-style: normal;
+  	font-weight: 600;
   	margin-top: 200px;
   	margin-bottom: 200px;
   	margin-right: 800px;
@@ -16,7 +17,6 @@ p, ul{
 }
 h1, h2{
 	color: #E0E1DD;
-	font-weight: 600;
 }
 h1{
 	font-size: 55px;

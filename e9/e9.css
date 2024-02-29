@@ -3,19 +3,22 @@
 }
 body {
 	margin: 0;
+	background: rgba(0, 0, 0, .9);
 }
-.one {
+.p1-1 {
 	width: 300px;
 	height: 300px;
 	background: orchid;
 	float: left;
-	margin: 30px;
+	margin: 10px 30px;
+	transform: skew(10deg);
 }
-.two {
+.p1-2 {
 	width: 300px;
 	height: 300px;
 	background: lightblue;
 	float: left;
-	margin: 30px;
+	margin: 10px 30px;
 	transform: rotate(45deg);
+	transform: skew(170deg);
 }

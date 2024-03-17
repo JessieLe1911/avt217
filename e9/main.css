@@ -117,3 +117,31 @@
 	margin-left: -5px;
 	transform: rotate(135deg);
 }
+#p5 {
+	background-color: white;
+}
+.p5-1 {
+	width: 50px;
+	height: 100px;
+	background: transparent;
+	border: 5px solid coral;        
+	border-radius: 50%;
+	float: left;
+	transform: rotate(55deg);
+}
+.p5-2 {
+	width: 50px;
+	height: 100px;
+	background: transparent;
+	border: 5px solid blueviolet;
+	border-radius: 50%;
+	float: left;
+	margin-left: -50px;
+	transform: rotate(125deg)
+}
+.p5-3 {
+	width: 100px;
+	height: 10px;
+	background: black;
+	float: left;
+}

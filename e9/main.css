@@ -49,11 +49,44 @@
 	margin-left: 50px;
 }
 #p3 {
-	background-color: #F0EFEF;
+	background-color: black;
 }
 .p3-1 {
 	width: 50px;
 	height: 100px;
-	background: #F0EFEF;
+	background: transparent;
 	border: 5px solid crimson;
+	border-radius: 50%;
+	float: left;
 }
+.p3-2 {
+	width: 50px;
+	height: 100px;
+	background: transparent;
+	border: 5px solid coral;        
+	border-radius: 50%;
+	float: left;
+	margin-left: -50px;
+	transform: rotate(45deg);
+}
+.p3-3 {
+	width: 50px;
+	height: 100px;
+	background: transparent;
+	border: 5px solid lightgoldenrodyellow;
+	border-radius: 50%;
+	float: left;
+	margin-left: -50px;
+	transform: rotate(90deg);
+}
+.p3-4 {
+	width: 50px;
+	height: 100px;
+	background: transparent;
+	border: 5px solid blueviolet;
+	border-radius: 50%;
+	float: left;
+	margin-left: -50px;
+	transform: rotate(135deg)
+}
+

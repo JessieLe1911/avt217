@@ -1,9 +1,8 @@
 * {
 	box-sizing: border-box;
 }
-body {
-	margin: 0;
-	background: rgb(3, 34, 47, 1.0);
+#p1 {
+	background-color: rgb(3, 34, 47, 1.0);
 }
 .p1-1 {
 	width: 300px;
@@ -11,7 +10,7 @@ body {
 	background: cadetblue;
 	float: left;
 	transform: skew(20deg);
-	
+	float: left;
 }
 .p1-2 {
 	width: 300px;
@@ -20,4 +19,4 @@ body {
 	float: left;
 	transform: rotate(45deg);
 	transform: skew(160deg);
-}
+	float: left;

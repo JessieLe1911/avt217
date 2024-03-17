@@ -121,27 +121,25 @@
 	background-color: white;
 }
 .p5-1 {
-	width: 50px;
-	height: 100px;
-	background: transparent;
-	border: 5px solid coral;        
+	width: 10px;
+	height: 120px;
+	background: #095F64;   
+	opacity: .9;     
 	border-radius: 50%;
 	float: left;
 	transform: rotate(55deg);
+	margin-left: 25px;
+	margin-top: 0px;
 }
 .p5-2 {
-	width: 50px;
-	height: 100px;
-	background: transparent;
-	border: 5px solid blueviolet;
+	width: 10px;
+	height: 120px;
+	background: #09BC8A;
+	opacity: .8;
 	border-radius: 50%;
 	float: left;
 	margin-left: -50px;
 	transform: rotate(125deg)
 }
-.p5-3 {
-	width: 100px;
-	height: 10px;
-	background: black;
-	float: left;
+
 }

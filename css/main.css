@@ -1,5 +1,5 @@
 body {
-	background-color:#A1D2CE;
+	background-color:#1D2F6F;
 	margin-top: 200px;
   	margin-bottom: 200px;
   	margin-right: 250px;
@@ -9,19 +9,25 @@ body {
 	max-width: 100%;
 }
 h1 {
-	color: #134D62;
+	color: #FAC748;
 	font-size: 100px;
 }
 h2 {
-	color: #134D62;
+	color: #FAC748;
 }
 h3 {
-	color: #134D62;
+	color: #FAC748;
 }
 a:hover{
-	background-color: #E1C560;
+	color: #F9E9EC;
+	background-color: #F88DAD;
 }
 a{
-	color: #163654;
+	color: #FAC748;
 	text-decoration: none;
+}
+@media screen and (max-width: 900px) {
+	body {
+		background-color: ;
+	}
 }

@@ -5,8 +5,13 @@ body {
   	margin-right: 250px;
   	margin-left: 250px;
 	font-family: 'Playfair Display', serif;
-	font-size: 40px;
+	font-size: 30px;
 	max-width: 100%;
+}
+.col {
+	width: 50%;
+	float: left;
+	padding: 0.25;
 }
 h1 {
 	color: #FAC748;
@@ -27,13 +32,9 @@ a{
 	text-decoration: none;
 }
 @media screen and (max-width: 900px) {
-	body {
-		background-color: #FAC748;
-		margin-top: 50px;
-  		margin-bottom: 50px;
-  		margin-right: 100px;
-  		margin-left: 100px;
-  		font-size: 30px;
+	.col {
+	width: 100%;
+	margin-bottom: 50px;
 	}
 	h1 {
 		color: #1D2F6F;
@@ -52,4 +53,13 @@ a{
 	a{
 	color: #1D2F6F;
 	text-decoration: none;
+	}
+	body{
+		background-color: #FAC748;
+		margin-top: 50px;
+  		margin-bottom: 50px;
+  		margin-right: 100px;
+  		margin-left: 100px;
+  		font-size: 30px;
+	}
 }

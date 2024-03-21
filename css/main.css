@@ -36,13 +36,6 @@ a{
 	width: 100%;
 	margin-bottom: 50px;
 	}
-	body{
-		background-color: #FAC748;
-		margin-top: 50px;
-  		margin-bottom: 50px;
-  		margin-right: 100px;
-  		margin-left: 100px;
-	}
 	h1 {
 		color: #1D2F6F;
 		font-size: 70px;
@@ -60,5 +53,12 @@ a{
 	a{
 	color: #1D2F6F;
 	text-decoration: none;
+	}
+	body{
+		background-color: #FAC748;
+		margin-top: 50px;
+  		margin-bottom: 50px;
+  		margin-right: 100px;
+  		margin-left: 100px;
 	}
 }

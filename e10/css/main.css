@@ -1,3 +1,4 @@
+/*Checkerboard*/
 body{
 	margin: 0;
 	background-color: black;
@@ -17,4 +18,28 @@ body{
 .board {
 	width: 40vw;
 	margin: 50px auto;
+}
+/*column*/
+.contain {
+	width: 950px;
+	height: 1000px;
+}
+header {
+	width: 950px;
+	height: 150px;
+	background-color: tomato;
+	margin-bottom: 25px;
+}
+nav {
+	width: 950px;
+	height: 50px;
+	background-color: tomato;
+}
+.col {
+	margin: 25px;
+
+}
+footer {
+	width: 950px;
+	height: 150px;
 }

@@ -38,7 +38,7 @@ nav {
 }
 .col {
 	width: 300px;
-	height: 500px;
+	height: 800px;
 	background-color: tomato;
 	float: left;
 	margin-top: 25px;
@@ -46,7 +46,7 @@ nav {
 }
 .col3 {
 	width: 300px;
-	height: 500px;
+	height: 800px;
 	background-color: tomato;
 	float: left;
 	margin-top: 25px;

@@ -60,7 +60,13 @@ footer {
 	margin-top: 25px;
 }
 /*blog*/
-.contain2 {
+.board1 {
+	width: 950px;
+	height: 1000px;
+	display: flow-root;
+	margin: 50px auto;
+}
+.board2 {
 	width: 950px;
 	height: 1000px;
 	display: flow-root;

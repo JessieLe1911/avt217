@@ -100,3 +100,42 @@ footer {
     float: left;
     margin-top: 25px;
 }
+/*tennis court*/
+.upper {
+	width: 800px;
+	height: 450px;
+	display: flow-root;
+	margin: 10px auto;
+}
+.lower {
+	width: 800px;
+	height: 450px;
+	display: flow-root;
+	margin: 10px auto;
+}
+.left {
+	width: 125px;
+	height: 450px;
+	background-color: seagreen;
+	margin-right: 10px;
+	float: left;
+}
+.back {
+	width: 520px;
+	height:140px;
+	background-color: seagreen;
+	float: left;
+}
+.right {
+	width: 125px;
+	height: 450px;
+	background-color: seagreen;
+	margin-left: 10px;
+	float: left;
+}
+.front {
+	width: 260px;
+	height:260px;
+	background-color: seagreen;
+	float: left;
+}

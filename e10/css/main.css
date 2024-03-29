@@ -64,14 +64,13 @@ footer {
 	width: 1000px;
 	height: 900px;
 	display: flow-root;
-	margin: 50px auto;
+	margin: 25px auto;
 }
 .board2 {
 	width: 1000px;
 	height: 900px;
 	display: flow-root;
-	margin: 50px auto;
-	margin-top: 150px;
+	margin: 25px auto;
 }
 .header {
 	width: 1000px;

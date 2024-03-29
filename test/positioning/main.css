@@ -1,0 +1,57 @@
+body {
+	height: 9000px;
+}
+.static {
+	width: 200px;
+	height: 200px;
+	background-color: tomato;
+	margin: 10px;
+}
+.relative {
+	width: 200px;
+	height: 200px;
+	background-color: seagreen;
+	margin: 10px;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+.absolute {
+	width: 200px;
+	height: 200px;
+	background-color: skyblue;
+	margin: 10px;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+.fixed {
+	width: 100vw;
+	height: 100px;
+	background-color: yellowgreen;
+	margin: 0px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+}
+/*.no-postion {
+	width: 500px;
+	height: 500px;
+	float: left;
+	background-color: red;
+}
+.has-postion {
+	width: 500px;
+	height: 500px;
+	float: left;
+	background-color: blue;
+	position: relative;
+}*/
+/*.absolute-1 {
+	width: 50px;
+	height: 50px;
+}
+.absolute-2 {
+	width: 50px;
+	height: 50px;
+}*/

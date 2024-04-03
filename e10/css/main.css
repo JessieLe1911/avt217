@@ -105,19 +105,19 @@ footer {
 	width: 800px;
 	height: 450px;
 	display: flow-root;
-	margin: 10px auto;
+	margin: 2px auto;
 }
 .lower {
 	width: 800px;
 	height: 450px;
 	display: flow-root;
-	margin: 10px auto;
+	margin: 2px auto;
 }
 .left {
 	width: 125px;
 	height: 450px;
 	background-color: seagreen;
-	margin-right: 10px;
+	margin-right: 2px;
 	float: left;
 }
 .back {
@@ -125,12 +125,13 @@ footer {
 	height:140px;
 	background-color: seagreen;
 	float: left;
+	margin: 2px;
 }
 .right {
 	width: 125px;
 	height: 450px;
 	background-color: seagreen;
-	margin-left: 10px;
+	margin: 2px;
 	float: left;
 }
 .front {
@@ -138,4 +139,5 @@ footer {
 	height:260px;
 	background-color: seagreen;
 	float: left;
+	margin: 2px;
 }

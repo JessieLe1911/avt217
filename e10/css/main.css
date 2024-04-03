@@ -103,20 +103,20 @@ footer {
 /*tennis court*/
 .upper {
 	width: 800px;
-	height: 450px;
+	height: 396px;
 	display: flow-root;
 	margin: 2px auto;
 }
 .lower {
 	width: 800px;
-	height: 450px;
+	height: 396px;
 	display: flow-root;
 	margin: 2px auto;
 }
 .left {
 	width: 125px;
 	height: 394px;
-	background-color: seagreen;
+	background-color: teal;
 	margin-right: 4px;
 	float: left;
 }
@@ -129,7 +129,7 @@ footer {
 .back {
 	width: 504px;
 	height:140px;
-	background-color: seagreen;
+	background-color: teal;
 	float: left;
 	margin-right: 4px;
 	margin-bottom: 4px;
@@ -137,14 +137,14 @@ footer {
 .right {
 	width: 125px;
 	height: 394px;
-	background-color: seagreen;
+	background-color: teal;
 	margin-bottom: 4px;
 	float: left;
 }
 .front {
 	width: 250px;
 	height:250px;
-	background-color: seagreen;
+	background-color: teal;
 	float: left;
 	margin-right: 4px;
 	margin-bottom: 4px;

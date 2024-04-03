@@ -115,29 +115,37 @@ footer {
 }
 .left {
 	width: 125px;
-	height: 450px;
+	height: 394px;
 	background-color: seagreen;
-	margin-right: 2px;
+	margin-right: 4px;
+	float: left;
+}
+.mid {
+	width: 508px;
+	height: 398px;
+	display: flow-root;
 	float: left;
 }
 .back {
-	width: 520px;
+	width: 504px;
 	height:140px;
 	background-color: seagreen;
 	float: left;
-	margin: 2px;
+	margin-right: 4px;
+	margin-bottom: 4px;
 }
 .right {
 	width: 125px;
-	height: 450px;
+	height: 394px;
 	background-color: seagreen;
-	margin: 2px;
+	margin-bottom: 4px;
 	float: left;
 }
 .front {
-	width: 260px;
-	height:260px;
+	width: 250px;
+	height:250px;
 	background-color: seagreen;
 	float: left;
-	margin: 2px;
+	margin-right: 4px;
+	margin-bottom: 4px;
 }

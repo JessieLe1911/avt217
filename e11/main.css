@@ -1,24 +1,40 @@
-.base {
-	width:200px;
-	height: 400px;
-	position: absolute;
-	top:;
-	left:;
-	background-color: ;
+.pen {
+	width:600px;
+	height: 29px;
+	background-color: black;
+	margin: auto;
+	display: flow-root;
+	border-radius: 10px;
 }
-.neck {
-	width:;
-	height: ;
-	position: absolute;
-	top:;
-	left:;
-	background-color: ;
+.tip1 {
+	width: 0;
+	height: 0;
+	border-left: 40px solid white;
+	border-bottom: 15px solid transparent;
 }
-.shade {
-	width: 150px;
-	height: 400px;
-	position: absolute;
-	top:;
-	left:;
-	background-color: ;
+.tip2 {
+	width: 0;
+	height: 0;
+	border-left: 40px solid white;
+	border-top: 15px solid transparent;
+}
+.board {
+	width:1000px;
+	height: 800px;
+	background-color: skyblue;
+	border-radius: 40px;
+	margin: auto;
+}
+.upper {
+	width: 950px;
+	height: 150px;
+
+}
+.touchpad {
+	width: 980px;
+	height: 640px;
+	position: relative;
+	left: 10px;
+	background-color: black;
+	border-radius: 35px;
 }

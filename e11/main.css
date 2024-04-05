@@ -101,3 +101,19 @@
 	border-radius: 35px;
 	display: flow-root;
 }
+.contain {
+	width: 768px;
+	height: 510px;
+	position: relative;
+	margin: auto;
+	margin-top: 65px;
+	display: flow-root;
+}
+.dots {
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	background-color: skyblue;
+	margin: 0px 15.8px 33.85px 15.8px;
+	float: left;
+}

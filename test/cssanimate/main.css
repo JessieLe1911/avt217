@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+}
+div {
+	width: 100px;
+	height: 100px;
+	background-color: tomato;
+	position: absolute;
+	animation: 3s ease-in-out move infinite alternate;
+}
+@keyframes move {
+	0% {
+		top: 0;
+		left: 0;
+	}
+	100% {
+		top: calc(100vh - 100px);
+		left: calc(100vw - 100px);
+	}
+}
+
+
